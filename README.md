@@ -4,8 +4,8 @@
 
 ## 🛠️ Tech Stack
 
-- 🎨 **Frontend:** Angular
-- 🖥 **Backend:** .NET Core
+- 🎨 **Frontend:** Angular 19, TailwindCss , DaisiUI
+- 🖥 **Backend:** ASP.NET CORE 8
 - 🔐 **Authentication:** JWT
 - 🗄 **Database:** SQL Server
 
@@ -13,10 +13,10 @@
 
 ✅ User authentication and authorization (JWT-based) 🔐  
 ✅ Manage stock portfolios 📊  
-✅ Real-time stock price tracking 📈  
-✅ Secure and scalable architecture 🏗️  
+❌ Real-time stock price tracking 📈  
+❌ Secure and scalable architecture 🏗️  
 ✅ Intuitive UI/UX design 🎨  
-✅ API integration for stock market data 🌍  
+❌ API integration for stock market data 🌍  
 
 ## 🚀 Getting Started
 
