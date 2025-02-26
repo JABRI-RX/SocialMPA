@@ -1,0 +1,6 @@
+bin/
+obj/
+Client/SocialMPlatform/node_modules
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
