@@ -36,11 +36,10 @@ cd SocialMPA
 2️⃣ Install dependencies:
 ```bash
 # Frontend
-cd frontend
+cd Client/SocialMPlatform
 npm install
 
 # Backend
-cd backend
 dotnet restore
 ```
 
@@ -59,19 +58,11 @@ dotnet run
 ## 📜 API Documentation
 API endpoints are documented via Swagger. Once the backend is running, visit:
 ```
-http://localhost:5000/swagger
+http://localhost:5296/swagger
 ```
-
-## 🎯 Roadmap
-- [ ] Implement social sharing features 🗣️  
-- [ ] Add AI-based stock predictions 🤖  
-- [ ] Enhance UI with dark mode 🌙  
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to open issues or submit pull requests.
-
-## 📄 License
-MIT License © [Your Name](https://github.com/yourusername)
 
 ---
 🌟 *If you find this project helpful, consider giving it a star! ⭐*
